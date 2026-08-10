@@ -1,0 +1,2 @@
+# California_Housing_Price_Prediction
+Developed an end-to-end machine learning regression system to predict California housing prices using demographic, geographic, and housing-related features. The project includes exploratory data analysis, missing-value handling, feature engineering, categorical encoding, feature scaling, and model comparison using Linear Regression, Random Forest, and Gradient Boosting. The Random Forest model achieved the best baseline performance with an R² score of 0.818 and an RMSE of approximately $48.8K.
